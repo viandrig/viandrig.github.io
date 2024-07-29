@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://viandrig.github.io/sitemap.html.gz
+Sitemap: https://viandrig.github.io/app/sitemap.html.gz
+Sitemap: https://viandrig.github.io/assets/sitemap.html.gz
+Sitemap: https://viandrig.github.io/css/sitemap.html.gz
+Sitemap: https://viandrig.github.io/includes/sitemap.html.gz
+Sitemap: https://viandrig.github.io/item/sitemap.html.gz
+Sitemap: https://viandrig.github.io/src/sitemap.html.gz
